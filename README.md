@@ -1,2 +1,2 @@
 # ListQL.NET
-Special approach restrict lists via predicates
+Special approach for restrict lists via predicates
