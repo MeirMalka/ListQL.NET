@@ -1,2 +1,5 @@
 # ListQL.NET
-Special approach for restrict lists via predicates
+
+Handle and simplify complex predicates.
+
+Special approach for restrict lists via predicates.
